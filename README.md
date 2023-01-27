@@ -64,10 +64,10 @@
   <a href="https://twitter.com/EtAviBeats">
     <img align="left" alt="@EtAviBeats | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/cristofer_vs_rodiguez/">
-    <img align="left" alt="cristofer_vs_rodriguez | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  <a href="https://www.instagram.com/cristofer.payamps/">
+    <img align="left" alt="cristofer.payamps | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:eltiogatogamer@gmail.com">
+  <a href="mailto:avidevs543@gmail.com">
     <img align="left" alt="AviDevs | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
